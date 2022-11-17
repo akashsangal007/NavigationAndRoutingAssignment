@@ -1,0 +1,56 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.dotnet
+/Music
+/Links
+/Favorites
+/Dropbox
+/Downloads
+/Documents
+/Contacts
+/ConfRoutingAndNavigationAssignment
+/AppData
+/.nuget/packages
+/.librarymanager
+/Saved Games
+/Searches
+/Videos
+/Tracing/WPPMedia
+/source/repos
+/OneDrive/Pictures
+/OneDrive/Personal Vault.lnk
+/OneDrive/Getting started with OneDrive.pdf
+/OneDrive/Documents
+/OneDrive/desktop.ini
+/OneDrive/Desktop/Zoom.lnk
+/OneDrive/Desktop/Word.lnk
+/OneDrive/Desktop/Start Zoom.lnk
+/OneDrive/Desktop/Resume/AkashSangal_Resume_updated.pdf
+/OneDrive/Desktop/Resume/AkashSangal_Resume_updated.docx
+/OneDrive/Desktop/Resume/AkashSangal_Resume_pfd.pdf
+/OneDrive/Desktop/Resume/AkashSangal_Resume.docx
+/OneDrive/Desktop/Resume
+/OneDrive/Desktop/Excel.lnk
+/OneDrive/Desktop/Dropbox.lnk
+/OneDrive/Desktop/Discord.lnk
+/OneDrive/Desktop/desktop.ini
+/OneDrive/.849C9593-D756-4E56-8D6E-42412F2A707B
+/ntuser.ini
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+/NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+/ntuser.dat.LOG2
+/ntuser.dat.LOG1
+/NTUSER.DAT
+/.gitconfig
+/.bash_history
+/OneDrive/Desktop/MVC Learning
+/OneDrive/Desktop/CoreTraining/ASP.NET Core Training Lab Guide.pdf
+/OneDrive/Desktop/CoreTraining/My Training Material/PPT's
+/OneDrive/Desktop/CoreTraining/ASP.NET Core Certification Training.pdf
+/OneDrive/Desktop/Assignment/Mocup Screens.docx
+/OneDrive/Desktop/Assignment/Investment Declaration.xlsx
+/OneDrive/Desktop/Assignment
+/OneDrive/Desktop/CoreTraining/Code Of Other Batch

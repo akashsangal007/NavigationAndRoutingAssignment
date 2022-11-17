@@ -1,0 +1,12 @@
+﻿@model Tuple<PostViewModel,CommentViewModel>
+
+<h1> Post View </h1>
+
+<p>Id: @Model.Item1.id </p>
+<p>UserId: @Model.Item1.userId </p>
+<p>Title: @Model.Item1.title </p>
+<p>Body: @Model.Item1.body </p>
+
+<br/>
+
+@await Component.InvokeAsync("Comments",Model.Item2)
